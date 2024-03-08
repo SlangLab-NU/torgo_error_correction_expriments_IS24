@@ -170,7 +170,6 @@ elif pattern == "new":
 
 # In[7]:
 
-
 # Functions to process data:
 
 # Remove special characters and convert all text into lowercase
